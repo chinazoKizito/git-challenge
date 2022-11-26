@@ -182,7 +182,7 @@ body {
 #Kizito-Chinazo .profile__link{
   background-color: var(--purple-dark);
 }
-#Kizito-Chinazo .media_icons >*{
+#Kizito-Chinazo .media_icons > * {
   color: var(--purple-dark);
 }
 #Kizito-Chinazo .profile__image{
